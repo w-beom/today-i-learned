@@ -66,7 +66,7 @@ export default defineComponent({
 });
 </script>
 ```
-##checkBox
+## checkBox
 - MyCheckVue
 ```javascript
 <template>
