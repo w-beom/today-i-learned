@@ -34,4 +34,5 @@ Optional
 주의할 것
 - 리턴값으로만 쓰기를 권장한다. (메소드 매개변수 타입, 맵의 키 타입, 인스턴스 펠드 타입으로 쓰지말자)
 - Optional을 리턴하는 메소드에서 null을 리턴하지 말자.
+  
 - 프리미티브 타입용 Optional이 따로 있다. OptionalInt, OptionalLong...
