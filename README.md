@@ -6,3 +6,4 @@
 - [Java](https://github.com/w-beom/today-i-learned/tree/main/java)
 - [JPA](https://github.com/w-beom/today-i-learned/tree/main/JPA)
 - [Vue](https://github.com/w-beom/today-i-learned/tree/main/vue)
+- [refactoring](https://github.com/w-beom/today-i-learned/tree/main/refactoring)
