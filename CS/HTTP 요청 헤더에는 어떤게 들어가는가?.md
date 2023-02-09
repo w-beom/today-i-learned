@@ -1,0 +1,14 @@
+- Accept
+- Accept-Encoding
+- Accept-Language
+- Cache-Control
+- Connection
+- Content-Length
+- Content-type
+- Cookie
+- Host
+- Origin
+- Pragma
+- Referer
+- User-Agent
+- X-Requested-With
