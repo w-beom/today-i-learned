@@ -2,10 +2,9 @@
 
 오늘 얻은 지식을 기록합니다.
 
-- [클린 아키텍처](https://github.com/w-beom/today-i-learned/tree/main/book/%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+- [book](https://github.com/w-beom/today-i-learned/tree/main/book)
+- [CS](https://github.com/w-beom/today-i-learned/tree/main/CS)
 - [Java](https://github.com/w-beom/today-i-learned/tree/main/java)
 - [JPA](https://github.com/w-beom/today-i-learned/tree/main/JPA)
-- [Vue](https://github.com/w-beom/today-i-learned/tree/main/vue)
 - [Refactoring](https://github.com/w-beom/today-i-learned/tree/main/refactoring)
-- [CS](https://github.com/w-beom/today-i-learned/tree/main/CS)
-dd
+- [Vue](https://github.com/w-beom/today-i-learned/tree/main/vue)
